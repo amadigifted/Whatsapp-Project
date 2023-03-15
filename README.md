@@ -1,5 +1,5 @@
 # Whatsapp-Project
-ANALYSIS DONE ON AN EXPORTED GROUP CHAT DATA.
+ANALYSIS DONE ON A WHATSAPP GROUP CHAT.
 
 ## CONTENT
 * The aim of this analysis was to know the most active group members, peak hour of chats and most active days from a social media chat group.
